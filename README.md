@@ -3,7 +3,7 @@ Use simulink to make a little Demo of Noise Canceling HeadPhone. Project of Sign
 
 
 
-## Co-Wrokers: [ZhengJunRen(Jeromy)](mailto:zhengjr@shanghaitech.edu.cn),[ZhangXingTian(Oda)](mailto:zhangxt@shanghaitech.edu.cn),    [GaoYiNing](mailto:gaoyn@shanghaitech.edu.cn) <- She is my girlfriend.
+## Co-Wrokers: [ZhengJunRen(Jeromy)](mailto:zhengjr@shanghaitech.edu.cn),[ZhangXingTian(Oda)](mailto:zhangxt1@shanghaitech.edu.cn),    [GaoYiNing](mailto:gaoyn@shanghaitech.edu.cn) <- She is my girlfriend.
 
 
 ## Change Log
